@@ -1,1 +1,2 @@
-# Posture_Detection
+# Posture-Detection
+Posture Detection Using CNN and Transfer Learning
